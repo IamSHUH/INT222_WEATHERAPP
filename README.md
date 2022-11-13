@@ -10,8 +10,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="cplusplus" width="40" height="40"/>&nbsp;
 </p>
 
-<h3> THumbnail : </h3>
-<img src="https://github.com/IamSHUH/QRcode_validator/blob/main/Generate-or-Read-QR-code-using-Python.jpg" alt="THumbnail" />
+<h3> Home Page : </h3>
+<img src="https://github.com/IamSHUH/INT222_WEATHERAPP/blob/main/public/images/1.jpg" alt="THumbnail" />
 
 <h3> Execution Proof : </h3>
-<img src="https://github.com/IamSHUH/QRcode_validator/blob/main/qrcodeauth.jpg" alt="Handlandmark" />
+<img src="https://github.com/IamSHUH/INT222_WEATHERAPP/blob/main/public/images/2.jpg" alt="Handlandmark" />
+<img src="https://github.com/IamSHUH/INT222_WEATHERAPP/blob/main/public/images/3.jpg" alt="Handlandmark" />
